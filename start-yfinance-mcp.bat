@@ -1,0 +1,3 @@
+@echo off
+echo Starting YFinance Trader MCP Server...
+py -3.13 main.py
