@@ -4,6 +4,11 @@ An MCP (Model Context Protocol) tool that provides stock market data and trading
 
 > **Credit**: This project was inspired by [mcp-stocks](https://github.com/luigiajah/mcp-stocks) by Luigi Ajah, which is a similar implementation for Cursor. This adaptation modifies the original concept to work with Claude Desktop.
 
+## Tutorial
+
+For a detailed guide on setting up and using this tool, check out our Medium tutorial:
+[Tutorial: Using Claude Desktop with YFinance Trader MCP Tool to Access Real-Time Stock Market Data](https://medium.com/@saintdoresh/tutorial-using-claude-desktop-with-yfinance-trader-mcp-tool-to-access-real-time-stock-market-data-904cd1e1ba09)
+
 ## Features
 
 - Real-time stock quotes
