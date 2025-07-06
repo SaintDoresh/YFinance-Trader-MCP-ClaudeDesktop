@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/saintdoresh-yfinance-trader-mcp-claudedesktop-badge.png)](https://mseep.ai/app/saintdoresh-yfinance-trader-mcp-claudedesktop)
+
 # YFinance Trader MCP Tool for Claude Desktop
 
 An MCP (Model Context Protocol) tool that provides stock market data and trading capabilities using the yfinance library, specifically adapted for Claude Desktop.
